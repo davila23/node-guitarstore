@@ -1,7 +1,6 @@
 
 # Guitar Store App
 This is a webstore simple project using Node.js, Mongodb, Stripe, and other Javascript Technologies.
-![](docs/screenshot.png)
 
 # Installation
 ```
@@ -24,3 +23,8 @@ This projects have two environments Development and production. To start in deve
 ```
 npm run dev
 ```
+
+# Imagen Demo
+
+![](docs/screenshot.png)
+
